@@ -28,10 +28,11 @@ I enjoy turning ideas into reality using clean code, creative design, and scalab
 ## 📫 Contact
 
 📧 **Email:** [kushalchavan2002@gmail.com](mailto:kushalchavan2002@gmail.com)  
-💼 **LinkedIn:** [Kushal Chavan](https://www.linkedin.com/in/kushal-chavan-44350b269/)  
+💼 **LinkedIn:** [Linkedin-handle](https://www.linkedin.com/in/kushal-chavan-44350b269/)  
 🌍 **Portfolio:** [Portfolio](https://portfolio-rho-plum-40.vercel.app)  
-🐦 **Twitter:** [Twitter-handle](https://twitter.com)
+🐦 **Twitter:** [Twitter-handle](https://x.com/kushalchavan_?t=u37UiNjLanNu_5DZGRtf4g)
 
 ---
 
 > \*Built with ❤️ by **Kushal Chavan\***
+
