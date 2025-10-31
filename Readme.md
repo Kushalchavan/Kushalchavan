@@ -18,7 +18,7 @@ I enjoy turning ideas into reality using clean code, creative design, and scalab
 - 🔭 I’m currently working on **Fullstack MERN & Next.js projects**
 - 🧩 Build full-featured web applications with Fullstack **MERN** and **Next.js**
 - 🎨 Create **beautiful UIs** using Tailwind CSS and modern component libraries
-- 🌱 I’m learning **Genrative AI & Advanced Backend**
+- 🌱 Currently I’m learning **Genrative AI & Advanced Backend**
 - 🧠 Write clean, maintainable, and scalable code
 - 📫 Reach me at **kushalchavan2002@gmail.com**
 - ⚡ Fun fact: I debug faster without coffee ☕
@@ -35,4 +35,5 @@ I enjoy turning ideas into reality using clean code, creative design, and scalab
 ---
 
 > \*Built with ❤️ by **Kushal Chavan\***
+
 
