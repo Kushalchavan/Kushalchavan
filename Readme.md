@@ -8,7 +8,7 @@ I enjoy turning ideas into reality using clean code, creative design, and scalab
 ## 🧠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,redux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,prisma,tailwind,redux,git,github,vscode" />
 </p>
 
 ---
@@ -35,6 +35,7 @@ I enjoy turning ideas into reality using clean code, creative design, and scalab
 ---
 
 > \*Built with ❤️ by **Kushal Chavan\***
+
 
 
 
