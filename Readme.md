@@ -1,47 +1,62 @@
-Hi 👋🏻, I'm **Kushal Chavan** — a passionate **Fullstack Developer** who loves crafting modern, efficient, and visually appealing web applications.  
-I enjoy turning ideas into reality using clean code, creative design, and scalable architecture.
+# Hi 👋🏻, I'm **Kushal Chavan**
 
-💡 _"Building the future of the web, one project at a time."_
+🚀 Full Stack Engineer | Building Scalable Systems
+
+I specialize in designing and building **robust, scalable backend systems** with a strong focus on **performance, reliability, and clean architecture**.
+
+💡 _"I don’t just build APIs — I design systems that scale."_
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Core Focus
+
+- ⚙️ Backend Development (Node.js, TypeScript)
+- 🧩 System Design & Distributed Systems
+- 🔁 Asynchronous Processing (Queues, Workers)
+- 🗄️ Database Design & Optimization
+- 🔐 Idempotency, Reliability & Fault Tolerance
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,prisma,tailwind,redux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,postgres,mongodb,redis,prisma,docker,react,nextjs,git,github,vscode" />
 </p>
 
 ---
 
-### 🌟 About Me
+## 🚀 Backend Skills
 
-- 🔭 I’m currently working on **Fullstack MERN & Next.js projects**
-- 🧩 Build full-featured web applications with Fullstack **MERN** and **Next.js**
-- 🎨 Create **beautiful UIs** using Tailwind CSS and modern component libraries
-- 🌱 Currently I’m learning **Genrative AI & Advanced Backend**
-- 🧠 Write clean, maintainable, and scalable code
-- 📫 Reach me at **kushalchavan2002@gmail.com**
-- ⚡ Fun fact: I debug faster without coffee ☕
+- 🧱 **Architecture:** Layered Architecture, Clean Code Practices
+- 🔄 **Queues:** Redis, BullMQ (Background Jobs, Workers)
+- 🗃️ **Databases:** PostgreSQL, MongoDB (Schema Design, Indexing)
+- ⚡ **Performance:** Async Processing, Caching
+- 🔐 **Reliability:** Idempotency, Retry Mechanisms
+- 🧠 **System Design:** Scalable & Fault-Tolerant Systems
+
+---
+
+## 🌱 Currently Learning
+
+- 🧠 Advanced System Design
+- 🤖 Generative AI Integration in Backend Systems
+- ⚙️ Distributed Systems Concepts
 
 ---
 
 ## 📫 Contact
 
 📧 **Email:** [kushalchavan2002@gmail.com](mailto:kushalchavan2002@gmail.com)  
-💼 **LinkedIn:** [Linkedin-handle](https://www.linkedin.com/in/kushal-chavan-44350b269/)  
+💼 **LinkedIn:** [Kushal Chavan](https://www.linkedin.com/in/kushal-chavan-44350b269/)  
 🌍 **Portfolio:** [Portfolio](https://portfolio-rho-plum-40.vercel.app)  
-🐦 **Twitter:** [Twitter-handle](https://x.com/kushalchavan_?t=u37UiNjLanNu_5DZGRtf4g)
+🐦 **Twitter/X:** [@kushalchavan_](https://x.com/kushalchavan_)
 
 ---
 
-> \*Built with ❤️ by **Kushal Chavan\***
+## ⚡ Fun Fact
 
+I enjoy debugging distributed systems more than writing UI 😄
 
-
-
-
-
-
-
-
+---
 
