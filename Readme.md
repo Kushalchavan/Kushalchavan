@@ -1,8 +1,10 @@
 # Hi 👋🏻, I'm **Kushal Chavan**
 
-🚀 Full Stack Engineer | Building Scalable Systems
+🚀 Full Stack Developer | Backend Developer
 
-I specialize in designing and building **robust, scalable backend systems** with a strong focus on **performance, reliability, and clean architecture**.
+I build **scalable full-stack applications** with a strong focus on **backend engineering, system design, and distributed systems**.
+
+Passionate about creating **high-performance, reliable, and production-ready systems** using modern technologies and clean architecture principles.
 
 💡 _"I don’t just build APIs — I design systems that scale."_
 
@@ -10,11 +12,12 @@ I specialize in designing and building **robust, scalable backend systems** with
 
 ## 🧠 Core Focus
 
-- ⚙️ Backend Development (Node.js, TypeScript)
-- 🧩 System Design & Distributed Systems
-- 🔁 Asynchronous Processing (Queues, Workers)
-- 🗄️ Database Design & Optimization
-- 🔐 Idempotency, Reliability & Fault Tolerance
+- ⚙️ Build scalable backend systems using Node.js & TypeScript
+- 🏗️ Design clean and maintainable architectures
+- 🔄 Develop asynchronous systems with queues & workers
+- 🗄️ Optimize databases for performance and scalability
+- 🔐 Implement secure, fault-tolerant, and reliable APIs
+- 🤖 Integrate AI capabilities into modern applications
 
 ---
 
@@ -26,14 +29,40 @@ I specialize in designing and building **robust, scalable backend systems** with
 
 ---
 
-## 🚀 Backend Skills
+# 🚀 Core Skills
 
-- 🧱 **Architecture:** Layered Architecture, Clean Code Practices
-- 🔄 **Queues:** Redis, BullMQ (Background Jobs, Workers)
-- 🗃️ **Databases:** PostgreSQL, MongoDB (Schema Design, Indexing)
-- ⚡ **Performance:** Async Processing, Caching
-- 🔐 **Reliability:** Idempotency, Retry Mechanisms
-- 🧠 **System Design:** Scalable & Fault-Tolerant Systems
+## Backend Development
+- Node.js
+- TypeScript
+- Express.js
+- REST APIs
+- Scalable Backend Architecture
+- Authentication & Authorization (JWT)
+- Async Processing
+- Workers & Job Queues
+
+## Databases & Infrastructure
+- PostgreSQL
+- MongoDB
+- Prisma ORM
+- Redis
+- BullMQ
+- Database Design
+- Indexing & Query Optimization
+- Docker
+
+## System Design
+- Scalable & Fault-Tolerant Systems
+- Idempotency & Retry Mechanisms
+- Distributed Systems Fundamentals
+- Clean Architecture
+- Modular Design
+
+## Frontend Development
+- React.js
+- Next.js
+- Tailwind CSS
+- SCSS
 
 ---
 
@@ -41,7 +70,8 @@ I specialize in designing and building **robust, scalable backend systems** with
 
 - 🧠 Advanced System Design
 - 🤖 Generative AI Integration in Backend Systems
-- ⚙️ Distributed Systems Concepts
+- ⚙️ Distributed Systems & Event-Driven Architecture
+- ☁️ Cloud & Scalable Ingrastructure
 
 ---
 
@@ -56,7 +86,7 @@ I specialize in designing and building **robust, scalable backend systems** with
 
 ## ⚡ Fun Fact
 
-I enjoy debugging distributed systems more than writing UI 😄
+I enjoy debugging scalable backend systems more than writing UI 😄
 
 ---
 
