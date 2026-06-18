@@ -29,43 +29,6 @@ Passionate about creating **high-performance, reliable, and production-ready sys
 
 ---
 
-# 🚀 Core Skills
-
-## Backend Development
-- Node.js
-- TypeScript
-- Express.js
-- REST APIs
-- Scalable Backend Architecture
-- Authentication & Authorization (JWT)
-- Async Processing
-- Workers & Job Queues
-
-## Databases & Infrastructure
-- PostgreSQL
-- MongoDB
-- Prisma ORM
-- Redis
-- BullMQ
-- Database Design
-- Indexing & Query Optimization
-- Docker
-
-## System Design
-- Scalable & Fault-Tolerant Systems
-- Idempotency & Retry Mechanisms
-- Distributed Systems Fundamentals
-- Clean Architecture
-- Modular Design
-
-## Frontend Development
-- React.js
-- Next.js
-- Tailwind CSS
-- SCSS
-
----
-
 ## 🌱 Currently Learning
 
 - 🧠 Advanced System Design
@@ -89,4 +52,3 @@ Passionate about creating **high-performance, reliable, and production-ready sys
 I enjoy debugging scalable backend systems more than writing UI 😄
 
 ---
-
