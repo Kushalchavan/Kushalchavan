@@ -49,6 +49,6 @@ Passionate about creating **high-performance, reliable, and production-ready sys
 
 ## ⚡ Fun Fact
 
-I enjoy debugging scalable backend systems more than writing UI 😄
+I enjoy debugging scalable backend systems more than writing UI 
 
 ---
