@@ -27,14 +27,6 @@ Passionate about creating **high-performance, reliable, and production-ready sys
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,postgres,mongodb,redis,prisma,docker,react,nextjs,git,github,vscode" />
 </p>
 
----
-
-## 🌱 Currently Learning
-
-- 🧠 Advanced System Design
-- 🤖 Generative AI Integration in Backend Systems
-- ⚙️ Distributed Systems & Event-Driven Architecture
-- ☁️ Cloud & Scalable Ingrastructure
 
 ---
 
