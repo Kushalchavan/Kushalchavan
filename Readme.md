@@ -1,6 +1,6 @@
 # Hi 👋🏻, I'm **Kushal Chavan**
 
-🚀 Full Stack Developer | Backend Developer
+🚀 Backend Engineer
 
 I build **scalable full-stack applications** with a strong focus on **backend engineering, system design, and distributed systems**.
 
