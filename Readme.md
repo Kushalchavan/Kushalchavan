@@ -24,7 +24,7 @@ Passionate about creating **high-performance, reliable, and production-ready sys
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,postgres,mongodb,redis,prisma,docker,react,nextjs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,express,postgres,mongodb,redis,docker,aws,linux,react,nextjs,git,github" />
 </p>
 
 
