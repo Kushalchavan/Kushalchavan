@@ -12,7 +12,7 @@ Passionate about creating **high-performance, reliable, and production-ready sys
 
 ## 🧠 Core Focus
 
-- ⚙️ Build scalable backend systems using Node.js & TypeScript
+- ⚙️ Build scalable backend systems using Python & Node.js
 - 🏗️ Design clean and maintainable architectures
 - 🔄 Develop asynchronous systems with queues & workers
 - 🗄️ Optimize databases for performance and scalability
